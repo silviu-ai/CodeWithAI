@@ -2,7 +2,6 @@
 title: Code With AI
 ---
 
-# Code With AI #
 ## Enhance Your Coding Workflow with AI Tools and knowledge ##
 
 ### Welcome to Code With AI! ###
