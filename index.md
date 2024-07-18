@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code With AI!
+description: Enhance Your Coding Workflow with AI Tools and knowledge
 ---
 
 
