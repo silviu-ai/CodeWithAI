@@ -4,6 +4,7 @@ title: Code With AI!
 description: Enhance Your Coding Workflow with AI Tools and knowledge
 ---
 
+![Code With AI Image](./assets/images/CodeWithAI.png)
 
 ### Welcome to Code With AI! ###
 
@@ -27,4 +28,4 @@ Before we dive into the world of AI-powered development tools, let me introduce 
 I believe the AI revolution that began a few years ago has the potential to significantly boost productivity in software development. However, I believe AI is not meant to replace developers, whether they are just starting their careers or are more experienced. Instead, it is designed to empower them. While AI can be an incredibly helpful tool, it can also sometimes be imperfect and obstructive. My hope is that the knowledge shared here will help you navigate the world of AI tools and find the right balance that works best for you.
 
 ### PS ###
-If this text looks like it was written by AI, it’s because it was. 😃 I used OpenAI’s GPT-4 to generate the initial content for this post, to correct grammar mistakes, and to improve the reading flow. I will be using AI tools throughout this repository to demonstrate their capabilities and provide you with practical examples of how they can be used to help in your daily work. After all, these tools are here to help! **Let’s Code With AI!** 🚀
+If this text looks like it was written by AI, it’s because it was. 😃 I used OpenAI’s GPT-4 to generate the initial content for this post, to generate the above image, to correct grammar mistakes, and to improve the reading flow. I will be using AI tools throughout this repository to demonstrate their capabilities and provide you with practical examples of how they can be used to help in your daily work. After all, these tools are here to help! **Let’s Code With AI!** 🚀
