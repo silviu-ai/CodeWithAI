@@ -12,7 +12,7 @@ In this repository, I’ll explore the world of AI-powered development tools tha
 
 ### What You’ll Find Here
 
-- **Guides and Tutorials:** Step-by-step instructions on how to set up an AI development lab, integrate and use AI models like LLMs (Large Lamguage Models) or SLMs (Small Language Models), AI coding helpers, and everything that you can use to make your life as a software engineer easier.
+- **Guides and Tutorials:** Step-by-step instructions on how to set up an AI development lab, integrate and use AI models like LLMs (Large Language Models) or SLMs (Small Language Models), AI coding helpers, and everything that you can use to make your life as a software engineer easier.
 - **Best Practices:** Tips and tricks on maximizing the efficiency and effectiveness of AI tools in your daily coding tasks.
 - **Real-World Examples:** Practical examples and case studies demonstrating how AI can solve common software engineering challenges.
 - **Tool Comparisons:** In-depth comparisons of various AI tools to help you choose the right one for your needs.
