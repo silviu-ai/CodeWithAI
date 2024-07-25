@@ -6,6 +6,8 @@ description: Enhance Your Coding Workflow with AI Tools and Knowledge
 
 ![Code With AI Image](./assets/images/CodeWithAI.png)
 
+<p style="text-align: right;">2024-07-19</p>
+
 ### Welcome to Code With AI! ###
 
 In this repository, I’ll explore the world of AI-powered development tools that can significantly improve your coding workflow. Whether you’re a seasoned developer or just getting started, leveraging AI can help you code faster, smarter, and with more fun. I will share my experiences in building AI-powered tools and provide you with practical tips and tutorials on how to integrate these tools into your daily coding routine.
