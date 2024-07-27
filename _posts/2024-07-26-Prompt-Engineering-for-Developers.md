@@ -1,5 +1,5 @@
 ---
-title: Prompt Engineering for Developers
+title: Prompt-Engineering-for-Developers
 date: 2024-07-26
 description: Empowering Developers with AI Prompts
 ---
@@ -85,11 +85,11 @@ So, as software developers, it's time for us to embrace Prompt Engineering. It's
 There aren't many references or tutorials on the web that pertain directly to Prompt Engineering for developers, but I am going to list here the ones that I could find.
 
 [DeepLearning.ai](https://deeplearning.ai)
-DLAI is one of the best places to get yourself immersed in AI knowledge that you would need in your development with AI. All the courses here are useful but I found the following ones notable:
+DLAI is one of the best places to get yourself immersed in AI knowledge that you would need in your development with AI. All the courses here are useful, but I found the following ones notable:
 
 This is a short course, probably the oldest course in their collection: [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/). It is basic, but has something to get you introduced to the concepts, free to watch.
 
-Also a short course, [Pair Programming with a Large Language Model](https://www.deeplearning.ai/short-courses/pair-programming-llm/). It is a bit more advanced, on how to use LLMs to enhance, debug, and document your code, write test cases, etc. Also free to watch.
+Also, a short course, [Pair Programming with a Large Language Model](https://www.deeplearning.ai/short-courses/pair-programming-llm/). It is a bit more advanced, on how to use LLMs to enhance, debug, and document your code, write test cases, etc. Also free to watch.
 
 Also short, in the YouTube Visual Studio Channel, I found this [Essential AI Prompts for Developers](https://www.youtube.com/watch?v=H3M95i4iS5c) pretty useful. Free to watch.
 
@@ -97,11 +97,11 @@ For a more in-depth use of Prompt Engineering, but not necessary for direct soft
 
 On [CodeSignal](https://codesignal.com/) there is a [Prompt Engineering](https://learn.codesignal.com/course-paths/16) path, which is a collection of five courses. It takes you from beginner to intermediate to more advanced. These courses are behind a paywall.
 
-On [DataCamp](https://www.datacamp.com/) they do not have paths, they have tracks, and there are a few courses that will introduce you to Prompt Engineering. Their site is not as well organized as CodeSignal's; you need to search for 'prompt engineering'. However, most of their Prompt Engineering for developers courses are about how to create LLM applications, especially ChatGPT. One thing that DataCamp has is a DataLab where you can try some of the concepts or AI. Also behind a paywall.
+On [DataCamp](https://www.datacamp.com/) they do not have paths, they have tracks, and there are a few courses that will introduce you to Prompt Engineering. Their site is not as well organized as CodeSignal's; you need to search for 'prompt engineering'. However, most of their Prompt Engineering for developers courses are about how to create LLM applications, especially ChatGPT. One thing that DataCamp has is a DataLab where you can try some of the concepts or AI. Also, behind a paywall.
 
 Another notable course is [Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial](https://www.youtube.com/watch?v=ScKCy2udln8&t=3s) free to watch on YouTube, presented by [freeCodeCamp](https://freeCodeCamp.org).  The presenter goes to build a React App starting from scratch and uses ChatGPT and Bard (renamed Gemini since) to go through all stages of development using a few different approaches.
 
 These are some of the courses that I watched and tried to learn from. I do not endorse any of them, especially not the paid ones. Feel free to explore, and for the paid ones, take advantage of their free offers. Happy Coding!
 
 ## PS ##
-The image was created by feeding the contents of the article to Microsoft Designer (DALL-E 3). As you can see, it does not have a soul and AI is really bad at spelling when doing art...
+The image was created by feeding the contents of the article to Microsoft Designer (DALL-E 3). As you can see, it does not have a soul and AI is terrible at spelling when doing art... 😃
