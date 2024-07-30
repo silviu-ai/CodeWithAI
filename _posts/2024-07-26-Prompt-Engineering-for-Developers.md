@@ -12,7 +12,7 @@ tags:
   - Software Development
 ---
 
-![Prompt Engineering for Developers Image](/assets/images/PromptEngineering/PromptEngineering.png)
+![Prompt Engineering for Developers Image](assets/images/PromptEngineering/PromptEngineering.png)
 
 <p style="text-align: right;">2024-07-26</p>
 
