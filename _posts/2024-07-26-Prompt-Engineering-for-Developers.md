@@ -1,7 +1,14 @@
 ---
-title: Prompt-Engineering-for-Developers
-date: 2024-07-26
+title: Prompt Engineering for Developers
+date: 2024-07-26T15:34:30-04:00
 description: Empowering Developers with AI Prompts
+layout: post
+categories:
+  - blog
+tags:
+  - AI
+  - Prompt Engineering
+  - Software Development
 ---
 
 ![Prompt Engineering for Developers Image](../assets/images/PromptEngineering.png)
