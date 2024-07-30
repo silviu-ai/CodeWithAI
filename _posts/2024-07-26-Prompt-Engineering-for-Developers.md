@@ -6,7 +6,7 @@ description: Empowering Developers with AI Prompts
 image: /assets/images/PromptEngineering/PromptEngineering.png
 toc: true
 toc_label: "Contents"
-toc_icon: "cog"
+toc_icon: "file-alt"
 layout: single
 categories:
   - blog
@@ -17,8 +17,6 @@ tags:
 ---
 
 ![Prompt Engineering for Developers Image](/assets/images/PromptEngineering/PromptEngineering.png)
-
-<p style="text-align: right;">2024-07-26</p>
 
 ## Introduction ##
 
