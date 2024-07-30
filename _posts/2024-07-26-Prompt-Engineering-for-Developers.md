@@ -16,7 +16,7 @@ tags:
   - Software Development
 ---
 
-![Prompt Engineering for Developers Image](/assets/images/PromptEngineering/PromptEngineering.png)
+![Prompt Engineering for Developers Image](./assets/images/PromptEngineering/PromptEngineering.png)
 
 ## Introduction ##
 
