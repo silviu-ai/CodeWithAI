@@ -6,6 +6,7 @@ description: Empowering Developers with AI Prompts
 toc: true
 toc_label: "Contents"
 toc_icon: "file-alt"
+toc_sticky: true
 layout: single
 categories:
   - blog
