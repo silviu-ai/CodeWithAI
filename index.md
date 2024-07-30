@@ -3,9 +3,9 @@ title: Code With AI
 subtitle: Enhance Your Coding Workflow with AI Tools and Knowledge
 description: Enhance Your Coding Workflow with AI Tools and Knowledge
 date: 2024-07-19T12:34:30-04:00
+read_time: true
+show_date: true
 layout: home
-classes:
-  - landing
 ---
 
 ![Code With AI Image](./assets/images/CodeWithAI/CodeWithAI.png)
