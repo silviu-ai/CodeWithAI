@@ -3,7 +3,7 @@ title: Prompt Engineering for Developers
 subtitle: Empowering Developers with AI Prompts
 date: 2024-07-26T15:34:30-04:00
 description: Empowering Developers with AI Prompts
-layout: post
+layout: posts
 categories:
   - blog
 tags:
