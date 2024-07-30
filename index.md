@@ -4,7 +4,7 @@ title: Code With AI
 description: Enhance Your Coding Workflow with AI Tools and Knowledge
 ---
 
-![Code With AI Image](./assets/images/CodeWithAI.png)
+![Code With AI Image](./assets/images/CodeWithAI/CodeWithAI.png)
 
 <p style="text-align: right;">2024-07-19</p>
 
