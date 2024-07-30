@@ -4,9 +4,9 @@ subtitle: Empowering Developers with AI Prompts
 date: 2024-07-26T15:34:30-04:00
 description: Empowering Developers with AI Prompts
 image: /assets/images/PromptEngineering/PromptEngineering.png
-toc: trueß
+toc: true
 toc_label: "Contents"
-toc_icon: "cog"
+toc_icon: "file-alt"
 layout: single
 categories:
   - blog
@@ -17,8 +17,6 @@ tags:
 ---
 
 ![Prompt Engineering for Developers Image](/assets/images/PromptEngineering/PromptEngineering.png)
-
-<p style="text-align: right;">2024-07-26</p>
 
 ## Introduction ##
 
